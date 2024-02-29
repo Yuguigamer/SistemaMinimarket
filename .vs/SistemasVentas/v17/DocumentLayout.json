@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|c:\\users\\steven sexual\\documents\\dearrollo de sistemas\\proyectofinal\\app\\sistemasventas\\presentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\presentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F27FBD4-D4D9-4280-8879-F71164818A78}|Dato\\Dato.csproj|c:\\users\\steven sexual\\documents\\dearrollo de sistemas\\proyectofinal\\app\\sistemasventas\\dato\\d_permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F27FBD4-D4D9-4280-8879-F71164818A78}|Dato\\Dato.csproj|solutionrelative:dato\\d_permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F27FBD4-D4D9-4280-8879-F71164818A78}|Dato\\Dato.csproj|C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\dato\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F27FBD4-D4D9-4280-8879-F71164818A78}|Dato\\Dato.csproj|solutionrelative:dato\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F27FBD4-D4D9-4280-8879-F71164818A78}|Dato\\Dato.csproj|C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\dato\\d_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F27FBD4-D4D9-4280-8879-F71164818A78}|Dato\\Dato.csproj|solutionrelative:dato\\d_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\presentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9148F7-141D-4FF4-B860-1F09731CCAA9}|Negocio\\Negocio.csproj|C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\negocio\\n_permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9148F7-141D-4FF4-B860-1F09731CCAA9}|Negocio\\Negocio.csproj|solutionrelative:negocio\\n_permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9148F7-141D-4FF4-B860-1F09731CCAA9}|Negocio\\Negocio.csproj|C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\negocio\\n_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9148F7-141D-4FF4-B860-1F09731CCAA9}|Negocio\\Negocio.csproj|solutionrelative:negocio\\n_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\presentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\presentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\presentacion\\frmusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\presentacion\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\presentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmdetallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\presentacion\\frmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9D83C8D-9699-4929-8431-640BE641D777}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmdetalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\Login.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:19:18.86Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\Program.cs",
+              "RelativeToolTip": "Presentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:35:25.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "N_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Negocio\\N_Usuario.cs",
+              "RelativeDocumentMoniker": "Negocio\\N_Usuario.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Negocio\\N_Usuario.cs",
+              "RelativeToolTip": "Negocio\\N_Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:54:41.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Dato\\Conexion.cs",
+              "RelativeDocumentMoniker": "Dato\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Dato\\Conexion.cs",
+              "RelativeToolTip": "Dato\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:53:10.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "N_Permiso.cs",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Negocio\\N_Permiso.cs",
+              "RelativeDocumentMoniker": "Negocio\\N_Permiso.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Negocio\\N_Permiso.cs",
+              "RelativeToolTip": "Negocio\\N_Permiso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:52:18.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:23:19.21Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\Inicio.cs",
+              "RelativeToolTip": "Presentacion\\Inicio.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:23:30.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "D_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Dato\\D_Usuario.cs",
+              "RelativeDocumentMoniker": "Dato\\D_Usuario.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Dato\\D_Usuario.cs",
+              "RelativeToolTip": "Dato\\D_Usuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:20:11.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "D_Permiso.cs",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Dato\\D_Permiso.cs",
+              "RelativeDocumentMoniker": "Dato\\D_Permiso.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Dato\\D_Permiso.cs",
+              "RelativeToolTip": "Dato\\D_Permiso.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:19:27.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\frmUsuario.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frmUsuario.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\frmUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\frmUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:36:38.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\frmUsuario.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frmUsuario.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\frmUsuario.cs",
+              "RelativeToolTip": "Presentacion\\frmUsuario.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:48:13.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmUsuario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\frmUsuario.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frmUsuario.Designer.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\frmUsuario.Designer.cs",
+              "RelativeToolTip": "Presentacion\\frmUsuario.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:03:31.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\Inicio.Designer.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Inicio.Designer.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\Inicio.Designer.cs",
+              "RelativeToolTip": "Presentacion\\Inicio.Designer.cs",
+              "ViewState": "AQIAACwBAAAAAAAAAAAowM0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:42:13.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDetalleCompra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\frmDetalleCompra.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frmDetalleCompra.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\frmDetalleCompra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\frmDetalleCompra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:37:03.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmDetalleVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\frmDetalleVenta.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frmDetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Steven Sexual\\Documents\\dearrollo de sistemas\\proyectofinal\\app\\SistemasVentas\\Presentacion\\frmDetalleVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\frmDetalleVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:36:15.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
